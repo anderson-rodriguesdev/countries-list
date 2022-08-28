@@ -11,6 +11,7 @@ This project was created to consume an API from REST Countries and return its da
  $ npm install
 
  Run
+ $ cd countries-list
  $ node index.js
 ```
 
